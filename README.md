@@ -3,7 +3,7 @@ Práctica 3 de IV
 
 Práctica 3 de la asignatura IV: creación de máquinas virtuales.
 
-Este proyecto se encuentra bajo la licencia GNU public v3.
+Este proyecto se encuentra bajo la licencia GPL v3.
 
 ## Introducción
 
