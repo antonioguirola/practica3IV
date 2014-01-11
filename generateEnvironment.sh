@@ -6,6 +6,9 @@ sudo apt-get install -y git
 sudo apt-get install -y python-dev
 sudo apt-get install -y libxml2-dev libxslt-dev
 
+# Variable de entorno necesaria para twitter
+export LC_ALL=C
+
 # Creación del entorno virtual Python
 cd ~
 mkdir env
@@ -26,5 +29,5 @@ pip install tweepy
 git clone https://antonioguirola@bitbucket.org/antonioguirola/appdai.git
 cd appdai
 
-# Ejecutamos el servidor web de web.py en el puerto 80
-python code.py 80
+# Ejecutamos el servidor web de web.py
+python code.py
