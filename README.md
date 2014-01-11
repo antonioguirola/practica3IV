@@ -3,6 +3,8 @@ Práctica 3 de IV
 
 Práctica 3 de la asignatura IV: creación de máquinas virtuales.
 
+Este proyecto se encuentra bajo la licencia GNU public v3.
+
 ## Introducción
 
 El objetivo de esta práctica es crear máquinas virtuales con un propósito específico, en mi caso correr una aplicación web, de forma que se asignen los recursos a las mismas de la forma más eficiente posible. Para ello crearé varias máquinas virtuales (de aquí en adelante MV) en Windows Azure con diferentes configuraciones y ejecutaré sobre las mismas una batería de peticiones usando el software [Apache Benchmark](http://httpd.apache.org/docs/2.2/programs/ab.html).
